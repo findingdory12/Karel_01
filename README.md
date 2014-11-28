@@ -3,6 +3,8 @@ Karel_01
 
 Karel starter code and resources for the Lab01 assignment.
 
+Your finished project should look similar to this sample solution.  http://youtu.be/-KbMeM6S1q0
+
 Instructions:
 * Use the FORK button to create a copy of this code under your personal Github account
 * Clone that copy from your personal Github account onto your computer
